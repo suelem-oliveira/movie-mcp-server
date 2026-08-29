@@ -31,5 +31,3 @@ def edit_movie(
         raise ValueError(f"Movie with id {movie_id} not found")
     
     movies[movie_id] = movies[movie_id].replace(old_str, new_str)
-
-
