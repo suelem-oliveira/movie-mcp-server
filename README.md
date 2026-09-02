@@ -8,7 +8,7 @@ O objetivo deste servidor é fornecer a modelos de inteligência artificial (com
 
 ## 🎯 Origem do Projeto e Aprendizado
 
-Este projeto foi desenvolvido como aplicação prática dos conceitos do **Curso de Protocolo de Contexto de Modelo (MCP)**. 
+Este projeto foi desenvolvido como aplicação prática dos conceitos do **Curso de Protocolo de Contexto de Modelo (MCP)**https://anthropic.skilljar.com/introduction-to-model-context-protocol 
 
 > "Para demonstrar o domínio prático dos conceitos ensinados no curso (que utilizava originalmente um exemplo focado em gerenciamento de documentos de escritório), eu fiz uma **refatoração criativa** da arquitetura de código. Apliquei os mesmos pilares de Ferramentas, Recursos, Prompts e Depuração com o Inspector em um contexto totalmente novo de banco de dados de cinema."
 
